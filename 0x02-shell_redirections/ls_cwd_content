@@ -1,7 +1,9 @@
-total 56
-drwxrwxr-x 2 olorunfemi olorunfemi 4096 Jun 27 17:57 .
+total 72
+drwxrwxr-x 2 olorunfemi olorunfemi 4096 Jun 27 18:54 .
 drwxrwxr-x 6 olorunfemi olorunfemi 4096 Jun 27 11:23 ..
 -rwxrw-r-- 1 olorunfemi olorunfemi   33 Jun 27 11:36 0-hello_world
+-rwxrwxr-x 1 olorunfemi olorunfemi   20 Jun 27 18:23 10-no_more_js
+-rwxrwxr-x 1 olorunfemi olorunfemi   21 Jun 27 18:54 11-directories
 -rwxrw-r-- 1 olorunfemi olorunfemi   28 Jun 27 12:19 1-confused_smiley
 -rw-rw-r-- 1 olorunfemi olorunfemi   18 Jun 27 11:48 1-confused_smiley~
 -rwxrw-r-- 1 olorunfemi olorunfemi   28 Jun 27 12:30 2-hellofile
@@ -11,6 +13,8 @@ drwxrwxr-x 6 olorunfemi olorunfemi 4096 Jun 27 11:23 ..
 -rwxrwxr-x 1 olorunfemi olorunfemi   36 Jun 27 14:08 6-third_line
 -rwxrwxr-x 1 olorunfemi olorunfemi   87 Jun 27 17:42 7-file
 -rwxrwxr-x 1 olorunfemi olorunfemi   36 Jun 27 17:56 8-cwd_state
+-rwxrwxr-x 1 olorunfemi olorunfemi   35 Jun 27 18:05 9-duplicate_last_line
 -rw-rw-r-- 1 olorunfemi olorunfemi   12 Jun 27 17:43 \*\\'Best School\'\\*$\?\*\*\*\*\*:)
--rw-rw-r-- 1 olorunfemi olorunfemi    0 Jun 27 17:57 ls_cwd_content
+-rw-rw-r-- 1 olorunfemi olorunfemi   90 Jun 27 18:08 iacta
+-rw-rw-r-- 1 olorunfemi olorunfemi    0 Jun 27 18:55 ls_cwd_content
 -rw-rw-r-- 1 olorunfemi olorunfemi   89 Jun 27 11:38 README.md
