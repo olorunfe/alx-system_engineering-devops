@@ -11,3 +11,4 @@
 10- arithmetic with ENVVAR.
 11- convertion from base 2 to base10.
 12- possible combination of 2 letters.
+13- print number with 2 decimal places.
