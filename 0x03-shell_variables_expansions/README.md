@@ -12,3 +12,7 @@
 11- convertion from base 2 to base10.
 12- possible combination of 2 letters.
 13- print number with 2 decimal places.
+100- convert a number from decimal to hexadecimal.
+101- encodes and decodes text using rot13.
+102- script to print every other line from the input.
+103- adds two numbers in two different variable and prints result.
