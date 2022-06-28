@@ -1,3 +1,4 @@
-0- create a script that creates an alias
-1- creates a script that prints string and current linux user
-2- adds a directory to a directory
+0- create a script that creates an alias.
+1- creates a script that prints string and current linux user.
+2- adds a directory to a directory.
+3- script to count the number directories in the path.
