@@ -6,3 +6,4 @@
 5- script to list local variables and enviroment variables.
 6- script to create local variable.
 7- script to create glolbal variable.
+8- script to add to the value of a existing environment variable.
