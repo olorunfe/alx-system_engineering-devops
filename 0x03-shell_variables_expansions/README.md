@@ -1,1 +1,2 @@
-0- create a script that creats an alias
+0- create a script that creates an alias
+1- creates a script that prints string and current linux user
