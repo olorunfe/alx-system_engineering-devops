@@ -4,4 +4,5 @@
 3- script to count the number directories in the path.
 4- script to list environment variables.
 5- script to list local variables and enviroment variables.
-6- script to create ne local variables.
+6- script to create local variable.
+7- script to create glolbal variable.
