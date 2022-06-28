@@ -9,3 +9,4 @@
 8- script to add to the value of a existing environment variable.
 9- script to print the result of the division of two environment variables.
 10- arithmetic with ENVVAR.
+11- convertion from base 2 to base10
